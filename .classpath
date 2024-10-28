@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/abilal.bese22seecs/Downloads/junit-platform-commons-1.11.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/abilal.bese22seecs/Downloads/junit-jupiter-engine-5.11.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/abilal.bese22seecs/Downloads/junit-jupiter-api-5.11.3-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
